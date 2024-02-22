@@ -1,2 +1,4 @@
-DataPreprocessing/
+DataPreprocessing/Processed_Data/
+DataPreprocessing/Data/
+DataPreprocessing/PeakOnly Allign/
 SavedWeights/
